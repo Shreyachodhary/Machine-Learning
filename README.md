@@ -94,10 +94,16 @@ This project is licensed under the **MIT License**.
 ## ✨ Author
 
 **[Shreya Chodhary](https://github.com/Shreyachodhary)**
-Passionate about machine learning and making learning accessible for everyone.
+Computer Science Engineering Student | Aspiring Machine Learning Engineer
 
+I'm passionate about leveraging data-driven solutions to solve real-world problems. This repository reflects my hands-on journey into machine learning, with a focus on building a strong foundation in data preprocessing, exploratory analysis, and model-ready pipelines. I actively explore areas like supervised learning, feature engineering, and MLOps, aiming to contribute to impactful AI-driven applications.
+
+🔍 Exploring: ML model optimization, real-world deployments, and deep learning
+
+🎯 Goal: To work in machine learning or AI-focused roles with impactful product teams
+
+📬 Connect with me on LinkedIn-https://www.linkedin.com/in/shreya-chaudhary-a80b49296
 ```
 
 ---
 
-```
